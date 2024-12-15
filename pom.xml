@@ -13,7 +13,7 @@
 	<version>v1.0</version>
 	<name>demo-development-project</name>
 	<packaging
-	> jar </packaging>
+	> war </packaging>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
